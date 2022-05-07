@@ -1,0 +1,8 @@
+#output{
+    background: whitesmoke;
+    text-align: left;
+    border-radius: 10px;
+    border-top: 10px solid maroon;
+    padding: 10px;
+    float: none;
+}
